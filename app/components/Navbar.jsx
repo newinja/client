@@ -11,7 +11,7 @@ function Navbar() {
     setIsMenuOpen(!isMenuOpen) // !false
   }
   return (
-    <div className="">
+    <div className="mb-3">
       <div className="s shadow-md shadow-gray-400">
         <header className="flex justify-between p-4 container mx-auto">
           <div className="Brand">
